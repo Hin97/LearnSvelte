@@ -1,5 +1,5 @@
 <script>
-	import ContactCard from './ContactCaqrd.svelte'
+	import ContactCard from './ContactCard.svelte'
 
 	let name = "Jack";
 	let title = ""
